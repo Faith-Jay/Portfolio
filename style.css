@@ -462,26 +462,26 @@ img {
     background-color: var(--first-color);
 }
 .skills__html{
-    width: 90%;
+    width: 100%;
 }
 .skills__css {
-    width: 80%;
+    width: 100%;
 }
 .skills__js {
-    width: 70%;
+    width: 90%;
 }
 .skills__react {
-    width: 60%;
+    width: 90%;
 }
 
 .skills__figma {
     width: 90%;
 }
 .skills__canva{
-    width: 70%;
+    width: 90%;
 }
 .skills__figjam {
-    width: 80%;
+    width: 90%;
 }
 .skills__close .skills__list{
     height: 0;
